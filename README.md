@@ -3,8 +3,6 @@
 
 - 🔭 I currently work in [Grava](https://grava.io/en/home)
 
-- 🌱 I am currently studying **engineering**
-
 - 🤝 I also work as a freelance developer **Synchro**
 
 <h3 align="left">Connect with me:</h3>
